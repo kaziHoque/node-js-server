@@ -1,3 +1,3 @@
-module.exports.new = function(request,response){
+odule.exports.new = function(request,response){
       response.render('form.ejs');
     }
